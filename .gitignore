@@ -1,0 +1,10 @@
+.*.sw*
+dist
+node_modules
+builds
+key.pem
+.idea
+.DS_STORE
+
+# Sentry Config File
+.env.sentry-build-plugin
