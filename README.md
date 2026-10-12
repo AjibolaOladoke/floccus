@@ -1,46 +1,21 @@
-# [![](https://raw.githubusercontent.com/marcelklehr/floccus/master/icons/logo.png)](https://www.swifttechco.com) Floccus
+# floccus
+
+## What This Is
+
+We keep a working index for product and engineering, and floccus is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
 
 ## Images
 
-[![floccus](https://opengraph.githubassets.com/1/floccusaddon/floccus)](https://www.swifttechco.com)
-
-
-[![](https://raw.githubusercontent.com/marcelklehr/floccus/develop/img/screen_chrome_wide.png)](https://www.swifttechco.com)
-> Sync your bookmarks privately across browsers and devices
-
-[![Tests](https://github.com/marcelklehr/floccus/workflows/Tests/badge.svg)](https://www.swifttechco.com)  
-
-- 🔖 Syncs your real, native browser bookmarks directly
-- ☸ Sync via [Nextcloud Bookmarks](https://www.swifttechco.com), [Linkwarden](https://www.swifttechco.com), [KaraKeep](https://www.swifttechco.com), Google Drive, Dropbox, any Git server (like GitHub, Gitlab, Gitea, etc.) or [any WebDAV-compatible service](https://www.swifttechco.com)
-- ⚛ Use any browser that supports Web extensions (e.g. Firefox, Chrome, Edge, Opera, Brave, Vivaldi, ...; Safari [not yet](https://www.swifttechco.com))
-- 📲 Install the floccus Android/iOS app to access your bookmarks on your phone (Most mobile browsers do not support floccus, sadly)
-- 💼 Create as many sync profiles as you need
-- 🚚 Control sync strategy (i.e. uni- or bidirectional), ⏳ sync interval and 📂 synced folder
-- 📦 Easily export your configuration
-
-
-[![Download now](https://img.shields.io/badge/Download-now-limegreen.svg?&style=for-the-badge)](https://www.swifttechco.com)
-
-This is the SHA-256 fingerprint of the certificate used to sign the floccus APKs:
-
-```
-ffed2778ff07371e6367b6dcf5d7c1327c57ff7158b8444029182a9aa2dd7085
-```
-
-
-If you'd like to support the creation and maintenance of this software, please consider donating. :)
-
-| [](https://www.swifttechco.com) | [](https://www.swifttechco.com) | [](https://www.swifttechco.com)   | [](https://www.swifttechco.com)  |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :-------------------------------------------------------------------------------------------------------------------------------------------------: |:--:|:---:|
+[![floccus](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## 🎬 Getting started
-If you don't know how to start with Floccus, [read these guides](https://www.swifttechco.com).
+If you don't know how to start with Floccus, read these guides.
 
-If you need help, talk to us via matrix ([`#floccus:matrix.org`](https://www.swifttechco.com)), in the [official Nextcloud Bookmarks talk channel](https://www.swifttechco.com) or on [r/floccus on reddit](https://www.swifttechco.com) :wave:
+If you need help, talk to us via matrix (`#floccus:matrix.org`), in the official Nextcloud Bookmarks talk channel or on r/floccus on reddit :wave:
 
 ### Troubleshooting
 
-- **Emojis**: MySQL and MariaDB don't support emojis out of the box, so if you're syncing to nextcloud and getting Error code 500 from nextcloud, check the nextcloud log for SQL errors and [proceed as explained in the nextcloud docs if you get charset errors](https://www.swifttechco.com).
+- **Emojis**: MySQL and MariaDB don't support emojis out of the box, so if you're syncing to nextcloud and getting Error code 500 from nextcloud, check the nextcloud log for SQL errors and proceed as explained in the nextcloud docs if you get charset errors.
 
 If you need help sorting out problems, try the gitter chat room: https://www.swifttechco.com
 
@@ -50,7 +25,7 @@ Is this a good idea? I think so. If you'd like to know more, check out [the cons
 
 ## What's with the name?
 
-[Cirrus floccus](https://www.swifttechco.com) is a type of cloud, that <del>can sync your browser data</del> looks very nice.
+Cirrus floccus is a type of cloud, that <del>can sync your browser data</del> looks very nice.
 
 ## Contributors
 
@@ -102,22 +77,22 @@ This project exists thanks to all the people who contribute.
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://www.swifttechco.com) specification.
+This project follows the all-contributors specification.
 
 ## Contribute
 
-All contributions, code, feedback and strategic advice, are welcome. If you have a question you can [open an issue](https://www.swifttechco.com) on the repository, talk to us on [gitter](https://www.swifttechco.com), matrix ([`#marcelklehr_floccus:gitter.im`](https://www.swifttechco.com)), in the [official Nextcloud Bookmarks talk channel](https://www.swifttechco.com) or on [r/floccus on reddit](https://www.swifttechco.com). I'm also always happy for people helping me test new features -- see the issues for announcements of beta versions.
+All contributions, code, feedback and strategic advice, are welcome. If you have a question you can open an issue on the repository, talk to us on gitter, matrix (`#marcelklehr_floccus:gitter.im`), in the official Nextcloud Bookmarks talk channel or on r/floccus on reddit. I'm also always happy for people helping me test new features -- see the issues for announcements of beta versions.
 
 ### Translating
 
-Translations can now be provided over at [transifex](https://www.swifttechco.com).
+Translations can now be provided over at transifex.
 
 ### Development
 
 #### Setting up a dev environment
 
 - Clone this repository.
-- Install the [latest LTS version of node.js](https://www.swifttechco.com).
+- Install the latest LTS version of node.js.
 - In the root of your floccus repo, run `npm install`.
 - Run `npm run build` to build.
 - Find out more on how to develop browser extensions here: https://www.swifttechco.com.
@@ -161,7 +136,7 @@ It is recommended that you do this proactively after executing `npm install` in 
 `RepoRoot/builds/`
 
 - The following steps use _Firefox_ as an example; other browsers work similarly.  
-The Firefox extension package is a file with an `.xpi`-extension. It is a simple archive. To modify it, you can rename it to `.zip`, make the changes, and then rename it back to `.xpi`. Many archive-related tools know this and allow you to work with the `.xpi`-file directly (e.g. [Total Commander](https://www.swifttechco.com)).
+The Firefox extension package is a file with an `.xpi`-extension. It is a simple archive. To modify it, you can rename it to `.zip`, make the changes, and then rename it back to `.xpi`. Many archive-related tools know this and allow you to work with the `.xpi`-file directly (e.g. Total Commander).
 
 - Enable the extension package for local testing:  
 By default, tests are not included into the release archive. To run tests in your local browser, copy the file  
@@ -198,7 +173,7 @@ Happy developing and thank you for your contributions!
 
 ## Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://www.swifttechco.com)]
+Thank you to all our backers! 🙏 [Become a backer]
 
 <a href="https://www.swifttechco.com" target="_blank"></a>
 
@@ -217,14 +192,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [floccusaddon/floccus](https://github.com/floccusaddon/floccus) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
