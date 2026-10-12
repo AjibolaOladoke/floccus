@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and floccus is the entry th
 
 ## Images
 
-[![floccus](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![floccus](images/preview.png)](https://github.com/Swift-Tech-Co/floccus)
 
 ## 🎬 Getting started
 If you don't know how to start with Floccus, read these guides.
@@ -17,7 +17,7 @@ If you need help, talk to us via matrix (`#floccus:matrix.org`), in the official
 
 - **Emojis**: MySQL and MariaDB don't support emojis out of the box, so if you're syncing to nextcloud and getting Error code 500 from nextcloud, check the nextcloud log for SQL errors and proceed as explained in the nextcloud docs if you get charset errors.
 
-If you need help sorting out problems, try the gitter chat room: https://www.swifttechco.com
+If you need help sorting out problems, try the gitter chat room: https://github.com/Swift-Tech-Co/floccus
 
 ## Considerations
 
@@ -37,37 +37,37 @@ This project exists thanks to all the people who contribute.
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Bernd Wechner</b></sub></a><br /><a href="https://www.swifttechco.com" title="Bug reports">🐛</a> <a href="#ideas-bernd-wechner" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://www.swifttechco.com" title="Tests">⚠️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>jlbprof</b></sub></a><br /><a href="https://www.swifttechco.com" title="Code">💻</a> <a href="https://www.swifttechco.com" title="Bug reports">🐛</a> <a href="https://www.swifttechco.com" title="Tests">⚠️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>TeutonJon78</b></sub></a><br /><a href="https://www.swifttechco.com" title="Bug reports">🐛</a> <a href="#ideas-TeutonJon78" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Scott P.</b></sub></a><br /><a href="https://www.swifttechco.com" title="Bug reports">🐛</a> <a href="#ideas-skewty" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Lantizia</b></sub></a><br /><a href="https://www.swifttechco.com" title="Bug reports">🐛</a> <a href="#ideas-Lantizia" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>TCB13</b></sub></a><br /><a href="https://www.swifttechco.com" title="Code">💻</a> <a href="#ideas-TCB13" title="Ideas, Planning, & Feedback">🤔</a> <a href="#plugin-TCB13" title="Plugin/utility libraries">🔌</a> <a href="#translation-TCB13" title="Translation">🌍</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>gohrner </b></sub></a><br /><a href="https://www.swifttechco.com" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Bernd Wechner</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a> <a href="#ideas-bernd-wechner" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>jlbprof</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Code">💻</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>TeutonJon78</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a> <a href="#ideas-TeutonJon78" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Scott P.</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a> <a href="#ideas-skewty" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Lantizia</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a> <a href="#ideas-Lantizia" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>TCB13</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Code">💻</a> <a href="#ideas-TCB13" title="Ideas, Planning, & Feedback">🤔</a> <a href="#plugin-TCB13" title="Plugin/utility libraries">🔌</a> <a href="#translation-TCB13" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>gohrner </b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Tank-Missile</b></sub></a><br /><a href="https://www.swifttechco.com" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Torsten Kurbad</b></sub></a><br /><a href="https://www.swifttechco.com" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>gerroon</b></sub></a><br /><a href="https://www.swifttechco.com" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Matija Nalis</b></sub></a><br /><a href="#ideas-mnalis" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-mnalis" title="Answering Questions">💬</a> <a href="https://www.swifttechco.com" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Marcel Klehr</b></sub></a><br /><a href="#question-marcelklehr" title="Answering Questions">💬</a> <a href="https://www.swifttechco.com" title="Code">💻</a> <a href="#content-marcelklehr" title="Content">🖋</a> <a href="#design-marcelklehr" title="Design">🎨</a> <a href="https://www.swifttechco.com" title="Documentation">📖</a> <a href="#infra-marcelklehr" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-marcelklehr" title="Maintenance">🚧</a> <a href="#projectManagement-marcelklehr" title="Project Management">📆</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>binsee</b></sub></a><br /><a href="https://www.swifttechco.com" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Marc Shapiro</b></sub></a><br /><a href="https://www.swifttechco.com" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Tank-Missile</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Torsten Kurbad</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>gerroon</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Matija Nalis</b></sub></a><br /><a href="#ideas-mnalis" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-mnalis" title="Answering Questions">💬</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Marcel Klehr</b></sub></a><br /><a href="#question-marcelklehr" title="Answering Questions">💬</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Code">💻</a> <a href="#content-marcelklehr" title="Content">🖋</a> <a href="#design-marcelklehr" title="Design">🎨</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Documentation">📖</a> <a href="#infra-marcelklehr" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-marcelklehr" title="Maintenance">🚧</a> <a href="#projectManagement-marcelklehr" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>binsee</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Marc Shapiro</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Code">💻</a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Marllus Lustosa</b></sub></a><br /><a href="https://www.swifttechco.com" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Izzy</b></sub></a><br /><a href="https://www.swifttechco.com" title="Bug reports">🐛</a> <a href="#ideas-IzzySoft" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-IzzySoft" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>sunjam</b></sub></a><br /><a href="#ideas-sunjam" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://www.swifttechco.com" title="Tests">⚠️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Danny Siminiuk</b></sub></a><br /><a href="https://www.swifttechco.com" title="Tests">⚠️</a> <a href="#ideas-dsiminiuk" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Seirade</b></sub></a><br /><a href="#ideas-Seirade" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://www.swifttechco.com" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>pinpontitit</b></sub></a><br /><a href="#ideas-pinpontitit" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://www.swifttechco.com" title="Bug reports">🐛</a> <a href="https://www.swifttechco.com" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Motte</b></sub></a><br /><a href="https://www.swifttechco.com" title="Code">💻</a> <a href="https://www.swifttechco.com" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Marllus Lustosa</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Izzy</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a> <a href="#ideas-IzzySoft" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-IzzySoft" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>sunjam</b></sub></a><br /><a href="#ideas-sunjam" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Danny Siminiuk</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Tests">⚠️</a> <a href="#ideas-dsiminiuk" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Seirade</b></sub></a><br /><a href="#ideas-Seirade" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>pinpontitit</b></sub></a><br /><a href="#ideas-pinpontitit" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Motte</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Code">💻</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>macrogreg</b></sub></a><br /><a href="https://www.swifttechco.com" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Andy Balaam</b></sub></a><br /><a href="https://www.swifttechco.com" title="Code">💻</a> <a href="https://www.swifttechco.com" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>Balthanon</b></sub></a><br /><a href="#ideas-balthanon" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://www.swifttechco.com" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.swifttechco.com"><br /><sub><b>aaryanvangari</b></sub></a><br /><a href="https://www.swifttechco.com" title="Code">💻</a> <a href="#ideas-aaryanvangari" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>macrogreg</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Andy Balaam</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Code">💻</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>Balthanon</b></sub></a><br /><a href="#ideas-balthanon" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Swift-Tech-Co/floccus" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swift-Tech-Co/floccus"><br /><sub><b>aaryanvangari</b></sub></a><br /><a href="https://github.com/Swift-Tech-Co/floccus" title="Code">💻</a> <a href="#ideas-aaryanvangari" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
@@ -95,7 +95,7 @@ Translations can now be provided over at transifex.
 - Install the latest LTS version of node.js.
 - In the root of your floccus repo, run `npm install`.
 - Run `npm run build` to build.
-- Find out more on how to develop browser extensions here: https://www.swifttechco.com.
+- Find out more on how to develop browser extensions here: https://github.com/Swift-Tech-Co/floccus.
 
 For building the android app you'll need Android Studio
 
@@ -170,12 +170,11 @@ On the "Debugger" tab, you can pause the execution, set breakpoints and step thr
 
 Happy developing and thank you for your contributions!
 
-
 ## Backers
 
 Thank you to all our backers! 🙏 [Become a backer]
 
-<a href="https://www.swifttechco.com" target="_blank"></a>
+<a href="https://github.com/Swift-Tech-Co/floccus" target="_blank"></a>
 
 ## License
 
@@ -196,13 +195,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/floccus
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [floccusaddon/floccus](https://github.com/floccusaddon/floccus) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
